@@ -2,17 +2,9 @@ import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
 
-//The Card components below are really repetitie and makes the file
-//look more complex than necessary.
-//A technique called 'Mapping components' will make it easy for us to
-//map all of the indiidual custom pieces of data to each of these
-//custom components. That way we wont hae ro keep creating Card
-//after Card and it can be created dynamically. For example when
-//using a form on our website or some input element.
-//So the Map function is a JS function that is really useful for
-//handling arrays such as our contacts array.
 
-//So now, if we comment out all of the Cards below and we tap into
+
+//We can comment out all of the Cards below and we tap into
 //to that contacts array. Which is imported here. And then we call
 //the map function (see below).
 
@@ -26,8 +18,6 @@ function createCard(contact) {
       email={contact.email}
     />
   );
-  //Btw, the properties such as imgURL need to match the name inside the
-  //conacts.js
 }
 // This function is going to create a new card component. So inside
 //it we return a custom card component and pass it some properties.
