@@ -1,5 +1,4 @@
-//Our contacts array below contains 3 items. Each of which are
-//JS objects with the same properties but different \/alues.
+
 
 const contacts = [
     {
