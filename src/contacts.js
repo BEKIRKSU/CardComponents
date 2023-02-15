@@ -7,15 +7,15 @@ const contacts = [
       imgURL:
         "https://s2.r29static.com/bin/entry/9ee/0,201,2000,2000/x,80/1577381/image.jpg",
       phone: "+1982 9873 273",
-      email: "r@brihanna.com"
+      email: "R@ihanna.com"
     },
     {
       id: 2,
-      name: "Ronaldinho",
+      name: "Beckham",
       imgURL:
-        "https://futboltriangle.files.wordpress.com/2013/08/ronaldinhobarcelonavstuttgartuefachampionsj2eetbnohsyl.jpg",
+        "https://www.planetsport.com/image-library/square/500/d/david-beckham-england-profile.jpg",
       phone: "+4522 1265 235",
-      email: "ro@naldinho.com"
+      email: "B@ckham.com"
     },
     {
       id: 3,
@@ -23,7 +23,7 @@ const contacts = [
       imgURL:
         "https://www.therealpearlco.com/wp-content/uploads/2020/11/405E7423-522C-4886-9A04-EBB6757758E2.jpeg",
       phone: "+5782 8734 641",
-      email: "audrey@hepburn.com"
+      email: "Audrey@Hepburn.com"
     }
   ];
   
