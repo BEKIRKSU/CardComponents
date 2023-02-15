@@ -4,14 +4,14 @@ body {
     padding: 25px;
     max-width: 400px;
     min-width: 400px;
-    background-color: #dfe6e9;
+    background-color: #2772db;
     text-align: center;
   }
   
   .heading {
     text-align: center;
     font-size: 2em;
-    color: #2d3436;
+    color: #fcfafa;
     margin: 20px 0 30px;
   }
   
@@ -19,7 +19,7 @@ body {
     border-radius: 25px;
     position: relative;
     padding: 25px 15px;
-    background-color: #81ecec;
+    background-color: #f5ebeb;
     margin: 50px 0;
     height: 200px;
     box-shadow: 0 2px 5px #ccc;
@@ -28,9 +28,9 @@ body {
   
   .top {
     border-radius: 25px 25px 0 0;
-    height: 100px;
+    height: 130px;
     width: 100%;
-    background-color: #00cec9;
+    background-color: #070f4e;
     position: absolute;
     top: 0;
     left: 0;
@@ -39,7 +39,7 @@ body {
   
   .name {
     font-size: 2em;
-    color: #2d3436;
+    color: #fcfafa;
     display: flex;
     flex: 1;
     margin: 10% 20px 0;
